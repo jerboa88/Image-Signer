@@ -12,14 +12,15 @@
   </p>
   
   <p class="projectDesc">
-    An experimental Python program to encode binary data within an image visually. It works by converting the input text to binary and then modifying the brightness values of existing pixels to encode the binary values in the image
+    An experimental Python program to encode binary data within an image visually
   </p>
   
   <br/>
 </div>
 
 
-> This project is purely experimental. Keep in mind that the approach used for both encoding and reading data is extremely naive at the moment, and JPEG compression will likely destroy the high frequencies holding data if the image is reencoded.
+## About
+The program works by converting the input text to binary and then modifying the brightness values of existing pixels to encode these binary values in the image. Keep in mind that the approach used for both encoding and reading data is extremely naive at the moment, and JPEG compression will likely destroy the high frequencies holding data if the image is reencoded.
 
 
 ## Installation
