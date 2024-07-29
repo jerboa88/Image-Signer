@@ -11,7 +11,7 @@
     </a>
   </p>
   
-  <p class="projectDesc">
+  <p class="projectDesc" data-exposition="An experimental Python program to encode binary data within an image visually. Created for the purpose of learning about image processing, steganography, and the SciKit Python library.">
     An experimental Python program to encode binary data within an image visually
   </p>
   
