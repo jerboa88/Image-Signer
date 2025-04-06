@@ -1,0 +1,15 @@
+{
+  "$schema": "https://johng.io/schema/project-metadata.json",
+  "name": "Image Signer",
+  "background": "An experimental Python program to encode binary data within an image visually. Created for the purpose of learning about image processing, steganography, and the SciKit Python library.",
+	"category": "App",
+	"subcategory": "CLI",
+  "technologies": [
+    "SciKit"
+  ],
+  "schema": {
+    "type": "Software",
+    "applicationCategory": "Design",
+    "operatingSystem": "Any"
+  }
+}
