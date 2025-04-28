@@ -3,7 +3,7 @@
   <h1 class="projectName">Image Signer</h1>
 
   <p class="projectBadges">
-    <img src="https://img.shields.io/badge/type-CLI_App-f44336.svg" alt="Project type" title="Project type">
+    <img src="https://johng.io/badges/category/App.svg" alt="Project category" title="Project category">
     <img src="https://img.shields.io/github/languages/top/jerboa88/Image-Signer.svg" alt="Language" title="Language">
     <img src="https://img.shields.io/github/repo-size/jerboa88/Image-Signer.svg" alt="Repository size" title="Repository size">
     <a href="LICENSE">
