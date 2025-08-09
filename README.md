@@ -2,13 +2,19 @@
 <div align="center"> 
   <h1 class="projectName">Image Signer</h1>
 
-  <p class="projectBadges">
+  <p class="projectBadges info">
     <img src="https://johng.io/badges/category/App.svg" alt="Project category" title="Project category">
     <img src="https://img.shields.io/github/languages/top/jerboa88/Image-Signer.svg" alt="Language" title="Language">
     <img src="https://img.shields.io/github/repo-size/jerboa88/Image-Signer.svg" alt="Repository size" title="Repository size">
     <a href="LICENSE">
       <img src="https://img.shields.io/github/license/jerboa88/Image-Signer.svg" alt="Project license" title="Project license"/>
     </a>
+  </p>
+  <p class="projectBadges status">
+    <a href="https://unmaintained.tech/">
+  		<img src="https://unmaintained.tech/badge.svg" alt="No Maintenance Intended" title="No Maintenance Intended"/>
+  	</a>
+   	<img src="https://img.shields.io/badge/Experimental-%E2%9A%A0%EF%B8%8E-ca8a04.svg" alt="Experimental" title="Experimental"/>
   </p>
   
   <p class="projectDesc">
@@ -17,6 +23,13 @@
   
   <br/>
 </div>
+
+
+> [!IMPORTANT]
+> I've marked this project as [UNMAINTAINED](https://unmaintained.tech/) because it hasn't seen an update in a while. You can still fork/download/use this project at your own risk, but I won't be able to provide support or updates.
+
+> [!WARNING]
+> This is currently an experimental project or proof-of-concept. It may contain bugs or incomplete features, and is not intended for production use. Breaking changes may be made at any time. Consider more stable alternatives for critical applications.
 
 
 ## About
